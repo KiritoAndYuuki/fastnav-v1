@@ -1116,7 +1116,7 @@
                     "url": "https://tempmail.cn/",
                     "desc": "有些时候你可能真的希望有一个用完就扔的邮箱来让你达到白嫖的效果，比如新用户免费领时长",
                     "logo": "src/assets/images/web/zhitu-des/临时邮箱.png",
-                    "screenshot": "src/assets/images/web/zhitu-des/临时邮箱.png"
+                    "screenshot": "../images/web/zhitu-des/临时邮箱.png"
                 }
             ]
         }
